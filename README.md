@@ -1,1 +1,1 @@
-# 30-days-of-streamli
+# 30-days-of-streamlit
